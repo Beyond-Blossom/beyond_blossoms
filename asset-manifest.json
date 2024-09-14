@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/beyond_blossom/static/css/main.e6c13ad2.css",
+    "main.js": "/beyond_blossom/static/js/main.7618a6f9.js",
+    "static/js/453.9e60fbbd.chunk.js": "/beyond_blossom/static/js/453.9e60fbbd.chunk.js",
+    "static/media/cat1_image2.jpeg": "/beyond_blossom/static/media/cat1_image2.5b77de2e095a519207c6.jpeg",
+    "static/media/cat1_image3.jpeg": "/beyond_blossom/static/media/cat1_image3.c93272e3b2d296b43c91.jpeg",
+    "static/media/cat1_image1.jpeg": "/beyond_blossom/static/media/cat1_image1.922332dfb75e11223a6b.jpeg",
+    "static/media/cat1_image4.jpeg": "/beyond_blossom/static/media/cat1_image4.624ab936f81c6918338a.jpeg",
+    "static/media/cat3_image4.jpeg": "/beyond_blossom/static/media/cat3_image4.f8b1ef4994c8b7247ee0.jpeg",
+    "static/media/cat3_image2.jpeg": "/beyond_blossom/static/media/cat3_image2.dd92f8ad52af3b0611c7.jpeg",
+    "static/media/cat3_image3.jpeg": "/beyond_blossom/static/media/cat3_image3.502601b11c280ab6993b.jpeg",
+    "static/media/cat2_image2.jpeg": "/beyond_blossom/static/media/cat2_image2.f5a7583c300c7b21762c.jpeg",
+    "static/media/cat3_image1.jpeg": "/beyond_blossom/static/media/cat3_image1.13a076cde0f8b0c70deb.jpeg",
+    "static/media/cat4_image1.jpeg": "/beyond_blossom/static/media/cat4_image1.3693d6655bd0405e0212.jpeg",
+    "static/media/cat2_image1.jpeg": "/beyond_blossom/static/media/cat2_image1.ce5829298c4f342f79af.jpeg",
+    "static/media/logo.jpeg": "/beyond_blossom/static/media/logo.c8009359747ebb14ba93.jpeg",
+    "index.html": "/beyond_blossom/index.html",
+    "main.e6c13ad2.css.map": "/beyond_blossom/static/css/main.e6c13ad2.css.map",
+    "main.7618a6f9.js.map": "/beyond_blossom/static/js/main.7618a6f9.js.map",
+    "453.9e60fbbd.chunk.js.map": "/beyond_blossom/static/js/453.9e60fbbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7618a6f9.js"
+  ]
+}
